@@ -9,6 +9,6 @@
   "license": "MIT",
   "homepage": "",
   "ignore":[
-    "README"
+    "README.md"
   ]
 }
