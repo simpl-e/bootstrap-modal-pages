@@ -1,4 +1,10 @@
 {
-  "name": "bootstrap-modal-pages",
-  "version": "1.0.0"
+    "name": "bootstrap-modal-pages",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/trollderius/bootstrap-modal-pages.git"
+    },
+    "devDependencies": {},
+    "dependencies": {}
 }
