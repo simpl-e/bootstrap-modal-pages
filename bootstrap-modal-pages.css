@@ -1,0 +1,20 @@
+
+/*MODAL PAGES*/
+.modalPage{
+
+}
+.modalPage .modal-dialog{
+    margin: 0;
+}
+.modalPage .modal-content{
+    border-radius: 0;
+}
+.modalPage .modal-body {
+    height: calc(100vh - 55px);
+    overflow-y: auto;
+    padding: 0;
+}
+.modalPage .modal-body  > div{
+    padding-bottom: 10px; /*some margin bottom*/    
+}
+
