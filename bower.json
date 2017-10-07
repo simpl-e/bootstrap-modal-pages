@@ -1,0 +1,14 @@
+
+{
+  "name": "comoquiero_web",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "troll <trollderiu@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore":[
+    "README"
+  ]
+}
