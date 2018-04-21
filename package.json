@@ -3,8 +3,6 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/trollderius/bootstrap-modal-pages.git"
-    },
-    "devDependencies": {},
-    "dependencies": {}
+        "url": "https://github.com/simpl-e/bootstrap-modal-pages.git"
+    }
 }
